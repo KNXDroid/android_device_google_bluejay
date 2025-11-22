@@ -46,6 +46,10 @@
       <value>1598000</value> <!-- 1598 MHz CPU speed -->
       <value>1704000</value> <!-- 1704 MHz CPU speed -->
       <value>1803000</value> <!-- 1803 MHz CPU speed -->
+      <value>1950000</value> <!-- 1950 MHz CPU speed -->
+      <value>2024000</value> <!-- 2024 MHz CPU speed -->
+      <value>2098000</value> <!-- 2098 MHz CPU speed -->
+      <value>2196000</value> <!-- 2196 MHz CPU speed -->
     </array>
 
     <!-- Different CPU speeds as reported in
@@ -65,6 +69,9 @@
       <value>1999000</value> <!-- 1999 MHz CPU speed -->
       <value>2130000</value> <!-- 2130 MHz CPU speed -->
       <value>2253000</value> <!-- 2253 MHz CPU speed -->
+      <value>2348000</value> <!-- 2348 MHz CPU speed -->
+      <value>2393000</value> <!-- 2393 MHz CPU speed -->
+      <value>2466000</value> <!-- 2466 MHz CPU speed -->
     </array>
 
     <!-- Different CPU speeds as reported in
@@ -87,6 +94,10 @@
       <value>2630000</value> <!-- 2630 MHz CPU speed -->
       <value>2704000</value> <!-- 2704 MHz CPU speed -->
       <value>2802000</value> <!-- 2802 MHz CPU speed -->
+      <value>2850000</value> <!-- 2850 MHz CPU speed -->
+      <value>2950000</value> <!-- 2950 MHz CPU speed -->
+      <value>3097000</value> <!-- 3097 MHz CPU speed -->
+      <value>3195000</value> <!-- 3195 MHz CPU speed -->
     </array>
 
     <!-- Additional power used by a CPU core from cluster 0 when running at
@@ -103,6 +114,10 @@
       <value>41.55</value> <!-- 1598 MHz CPU speed -->
       <value>48.36</value> <!-- 1704 MHz CPU speed -->
       <value>58.45</value> <!-- 1803 MHz CPU speed -->
+      <value>68.50</value> <!-- 1950 MHz CPU speed -->
+      <value>74.20</value> <!-- 2024 MHz CPU speed -->
+      <value>81.10</value> <!-- 2098 MHz CPU speed -->
+      <value>90.50</value> <!-- 2196 MHz CPU speed -->
     </array>
 
     <!-- Additional power used by a CPU core from cluster 1 when running at
@@ -122,6 +137,9 @@
       <value>58.09</value> <!-- 1999 MHz CPU speed -->
       <value>67.54</value> <!-- 2130 MHz CPU speed -->
       <value>79.04</value> <!-- 2253 MHz CPU speed -->
+      <value>88.50</value> <!-- 2348 MHz CPU speed -->
+      <value>94.20</value> <!-- 2393 MHz CPU speed -->
+      <value>102.80</value> <!-- 2466 MHz CPU speed -->
     </array>
 
     <!-- Additional power used by a CPU core from cluster 2 when running at
@@ -144,6 +162,10 @@
       <value>193.15</value> <!-- 2630 MHz CPU speed -->
       <value>227.98</value> <!-- 2704 MHz CPU speed -->
       <value>254.25</value> <!-- 2802 MHz CPU speed -->
+      <value>270.50</value> <!-- 2850 MHz CPU speed -->
+      <value>295.10</value> <!-- 2950 MHz CPU speed -->
+      <value>330.40</value> <!-- 3097 MHz CPU speed -->
+      <value>360.80</value> <!-- 2950 MHz CPU speed -->
     </array>
 
     <!-- Additional power used when screen is ambient mode -->
